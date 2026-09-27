@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.pytest_cache/
+.mypy_cache/
+mlruns/
+vectorstore/*.faiss
+vectorstore/*.pkl
+data/experiences/episodes.jsonl
+data/experiences/strategies.json
+*.log
+.DS_Store
